@@ -16,5 +16,8 @@ No install: download the **.zip** instead, extract all of it, and run `SpeedyBat
 
 **Everyone playing together online must use the same build.**
 
-Each release lists SHA-256 checksums for its files. (GitHub also adds "Source code" links to every
-release; for this repository those only contain this README.)
+Each release lists SHA-256 checksums for its files.
+
+**About the "Source code (zip / tar.gz)" links on each release:** GitHub adds them to every release
+automatically. For this repository they are an archive of this README and nothing else. The game's
+source code is private and is not published anywhere.
